@@ -18,5 +18,5 @@ I spent most of October making improvements to my existing iOS app, PomClock, as
 <div>
 <img src="https://github.com/rarcilla/pomclock-cwf/blob/main/timer-in-progress.png" width=200 />
 <img src="https://github.com/rarcilla/pomclock-cwf/blob/main/timer-complete.png" width=200 />
+<img src="https://github.com/rarcilla/pomclock-cwf/blob/main/in-progress-dark-mode.png" width=200 />
 </div>
-
